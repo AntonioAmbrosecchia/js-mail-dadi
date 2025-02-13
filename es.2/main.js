@@ -17,7 +17,7 @@ if (numGiocatore > numComputer) {
 } else if (numComputer > numGiocatore) {
     console.log(alert("Ha vinto il PC"), "Ha vinto il PC");
 
-} else (numGiocatore = numComputer) {
+} else {
     console.log(alert("Pareggio! Ricarica la pagina e riprova"), "Pareggio! Ricarica la pagina e riprova");
 
 }
